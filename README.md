@@ -60,15 +60,9 @@ Conference management platform covering authentication, review workflows, paymen
 
 <h2>Focus Areas</h2>
 
-<p>
-  AI applications<br>
-  Backend and platform engineering<br>
-  Developer tooling<br>
-  Automation and CI/CD<br>
-  Full-stack product development<br>
-  Open source collaboration
-</p>
-
-<h2>Contact</h2>
-
-The best way to reach me here is through GitHub issues, discussions, or repository activity.
+- AI applications
+- Backend and platform engineering
+- Developer tooling
+- Automation and CI/CD
+- Full-stack product development
+- Open source collaboration
