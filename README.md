@@ -1,7 +1,7 @@
 # Brian
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=0F766E&center=true&vCenter=true&width=760&lines=Software+engineer+focused+on+AI%2C+backend+systems%2C+and+developer+tooling;Building+production-oriented+applications+and+automation+workflows;Interested+in+shipping+useful+systems+with+clear+technical+impact" alt="Typing intro" />
+  Software engineer focused on AI applications, backend systems, and full-stack product development.
 </p>
 
 <p align="center">
@@ -26,23 +26,21 @@ My work is usually centered on:
 ### [bmesite](https://github.com/brian033/bmesite)
 Conference management platform covering authentication, review workflows, payments, operations, and admin tooling.
 
-### [cv_render](https://github.com/brian033/cv_render)
-Structured CV tailoring and rendering pipeline with agent-oriented workflow design, ranking, drafting, and final output generation.
-
 ### [pdf-compare-tool](https://github.com/brian033/pdf-compare-tool)
 Document comparison and analysis tool built around ingestion pipelines and LLM-assisted interaction.
+
+## Tech Stack
+
+- Languages: Python, TypeScript, Go, Java, C/C++, Shell
+- AI and data: PyTorch, LangChain, OpenCV, RAG workflows, LLM applications
+- Backend and APIs: FastAPI, REST APIs, SQLAlchemy
+- Frontend: React, Next.js, Vite, Tailwind CSS
+- Infra and tooling: Docker, Nginx, GitHub Actions, Linux, Cloudflare
 
 ## Open Source and Interests
 
 - Contributed a merged fix to [vLLM](https://github.com/vllm-project/vllm/pull/31715)
 - Interested in AI infrastructure, application engineering, internal tools, and developer productivity
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brian033&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian033&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
 
 ## Focus Areas
 
