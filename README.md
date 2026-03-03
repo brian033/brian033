@@ -1,7 +1,7 @@
-# Brian
+<h1 align="center">Brian</h1>
 
 <p align="center">
-  Software engineer focused on AI applications, backend systems, and full-stack product development.
+  <strong>Software engineer focused on AI applications, backend systems, and full-stack product development.</strong>
 </p>
 
 <p align="center">
@@ -10,9 +10,11 @@
   <a href="https://github.com/brian033?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-Explore-111827?style=for-the-badge&logo=github" alt="Public repos" /></a>
 </p>
 
-## About
+<h2>About</h2>
 
-I build practical software across AI applications, backend systems, and full-stack product development.
+<p>
+  I build practical software across AI applications, backend systems, and full-stack product development.
+</p>
 
 My work is usually centered on:
 - LLM and inference workflows
@@ -21,12 +23,12 @@ My work is usually centered on:
 - CI/CD and developer tooling
 - systems designed to be reliable, maintainable, and easy to extend
 
-## Featured Projects
+<h2>Featured Projects</h2>
 
 ### [bmesite](https://github.com/brian033/bmesite)
 Conference management platform covering authentication, review workflows, payments, operations, and admin tooling.
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
 - Languages: Python, TypeScript, Go, Java, C/C++, Shell
 - AI and data: PyTorch, LangChain, OpenCV, RAG workflows, LLM applications
@@ -51,22 +53,22 @@ Conference management platform covering authentication, review workflows, paymen
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="LangChain" width="54" height="54" />
 </p>
 
-## Open Source and Interests
+<h2>Open Source and Interests</h2>
 
 - Contributed a merged fix to [vLLM](https://github.com/vllm-project/vllm/pull/31715)
 - Interested in AI infrastructure, application engineering, internal tools, and developer productivity
 
-## Focus Areas
+<h2>Focus Areas</h2>
 
-```text
-AI applications
-backend and platform engineering
-developer tooling
-automation and CI/CD
-full-stack product development
-open source collaboration
-```
+<p>
+  AI applications<br>
+  Backend and platform engineering<br>
+  Developer tooling<br>
+  Automation and CI/CD<br>
+  Full-stack product development<br>
+  Open source collaboration
+</p>
 
-## Contact
+<h2>Contact</h2>
 
 The best way to reach me here is through GitHub issues, discussions, or repository activity.
