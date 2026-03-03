@@ -25,6 +25,9 @@ My work is usually centered on:
 
 <h2>Featured Projects</h2>
 
+### [pos-bot](https://github.com/brian033/pos-bot)
+QR-based restaurant ordering system with shared table sessions, real-time menu updates, role-based admin tools, and full-stack deployment workflow.
+
 ### [bmesite](https://github.com/brian033/bmesite)
 Conference management platform covering authentication, review workflows, payments, operations, and admin tooling.
 
